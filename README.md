@@ -92,4 +92,11 @@ Please ensure your code is well-documented and follows best practices. 🙌
 📜 License
 This project is licensed under the MIT License.
 
+# Preview
+Landing Page
+![screencapture-localhost-restaurant-website-tajbiryaniresturant-2025-02-10-12_12_40](https://github.com/user-attachments/assets/7e333d31-daf3-430c-bc22-1bd3ca3bfba8)
+
+Dashboard Image
+![screencapture-localhost-restaurant-website-tajbiryaniresturant-admin-pages-filemanager-managefile-php-2025-02-10-12_13_43](https://github.com/user-attachments/assets/4e39ca30-fedf-4879-ad3b-96aac7397ae9)
+
 🚀 Thank you for visiting the Restoran project! We hope you enjoy exploring our website as much as we enjoyed creating it. 🍽️✨
